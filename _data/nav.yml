@@ -1,0 +1,9 @@
+- name: About
+  link: /
+- name: Selfhosted
+  link: /selfhosted
+- name: Prayers
+  link: /posts
+- name: Gallery
+  link: /gallery
+
